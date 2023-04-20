@@ -1,5 +1,5 @@
 """
-An algorithm that takes a list and a target number, and returns
+Takes a list and a target number, and returns
 two unique indices that add up to that number.
 """
 def twoSum(nums, target):
